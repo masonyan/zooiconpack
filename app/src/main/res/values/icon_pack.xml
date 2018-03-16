@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright 2017 By_syk
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+
+<resources>
+
+    <!-- File name (no suffix) list of all icons in /res/drawable-nodpi/ -->
+    <!-- Names like "Calendar", "500px", "camera_360" are not allowed or recommended. -->
+    <string-array name="icons" translatable="false">
+        <!-- A -->
+        <item>alipay</item>
+        <item>amazon_shopping</item>
+        <item>android_wear</item>
+        <item>auto_home</item>
+        <!-- B -->
+        <item>baidu_maps</item>
+        <item>bilibili</item>
+        <item>bilibili_blue</item>
+        <item>browser</item>
+        <!-- C -->
+        <item>calendar</item>
+        <item>chrome</item>
+        <item>camera</item>
+        <item>clock</item>
+        <item>calculator</item>
+        <item>compass</item>
+        <item>contacts</item>
+        <item>cool_apk</item>
+        <!-- D -->
+        <item>dianping</item>
+        <item>di_di</item>
+        <item>dji_go</item>
+        <item>downloads</item>
+        <!-- E -->
+        <item>ele</item>
+        <item>email</item>
+        <!-- F -->
+        <!-- G -->
+        <item>gallery</item>
+        <item>gmail</item>
+        <item>google</item>
+        <item>google_drive</item>
+        <item>google_maps</item>
+        <item>google_opinion_rewards</item>
+        <item>google_photos</item>
+        <item>google_play_games</item>
+        <item>google_play_music</item>
+        <item>google_play_store</item>
+        <item>google_translate</item>
+        <!-- H -->
+        <!-- I -->
+        <item>ifanr</item>
+        <item>ifttt</item>
+        <!-- J -->
+        <item>jd</item>
+        <!-- K -->
+        <item>kindlecn</item>
+        <!-- L -->
+        <item>last_pass</item>
+        <item>longzhu</item>
+        <!-- M -->
+        <item>macro_droid</item>
+        <item>magisk_manager</item>
+        <item>meituan</item>
+        <item>mi_home</item>
+        <item>mix</item>
+        <item>music</item>
+        <item>mx_player</item>
+        <!-- N -->
+        <item>net_ease_music</item>
+        <item>nga</item>
+        <item>nova_launcher</item>
+        <!-- O -->
+        <!-- P -->
+        <item>phone</item>
+        <item>play_station</item>
+        <item>plex</item>
+        <item>pptv</item>
+        <item>pubgmhd</item>
+        <!-- Q -->
+        <item>qfile</item>
+        <item>qmanager</item>
+        <item>qqlite</item>
+        <!-- R -->
+        <item>recorder</item>
+        <item>reddit</item>
+        <!-- S -->
+        <item>sms</item>
+        <!-- T -->
+        <item>taobao_trip</item>
+        <!-- U -->
+        <!-- V -->
+        <!-- W -->
+        <!-- X -->
+        <!-- Y -->
+        <!-- Z -->
+        <item>zoo_icon_pack</item>
+    </string-array>
+
+    <!-- Corresponding app name list of all icons in /res/drawable-nodpi/ -->
+    <!-- Just KEEP IT EMPTY BUT DO NOT DELETE IT if you do not want to collect app name list. -->
+    <string-array name="icon_labels">
+        <!-- A -->
+        <item>Alipay</item>
+        <item>Amazon Shopping</item>
+        <item>Android Wear</item>
+        <item>Auto Home</item>
+        <!-- B -->
+        <item>Baidu Maps</item>
+        <item>Bilibili</item>
+        <item>Bilibili Blue</item>
+        <item>Browser</item>
+        <!-- C -->
+        <item>Calendar</item>
+        <item>Chrome</item>
+        <item>Camera</item>
+        <item>Clock</item>
+        <item>Calculator</item>
+        <item>Compass</item>
+        <item>Contacts</item>
+        <item>Cool Apk</item>
+        <!-- D -->
+        <item>Dianping</item>
+        <item>Di Di</item>
+        <item>DJI Go</item>
+        <item>Downloads</item>
+        <!-- E -->
+        <item>Ele</item>
+        <item>Email</item>
+        <!-- F -->
+        <!-- G -->
+        <item>Gallery</item>
+        <item>Gmail</item>
+        <item>Google</item>
+        <item>Google Drive</item>
+        <item>Google Maps</item>
+        <item>Google Opinion Rewards</item>
+        <item>Google Photos</item>
+        <item>Google Play Games</item>
+        <item>Google Play Music</item>
+        <item>Google Play Store</item>
+        <item>Google Translate</item>
+        <!-- H -->
+        <!-- I -->
+        <item>Ifanr</item>
+        <item>IFTTT</item>
+        <!-- J -->
+        <item>JD</item>
+        <!-- K -->
+        <item>KindleCN</item>
+        <!-- L -->
+        <item>Last Pass</item>
+        <item>Long Zhu</item>
+        <!-- M -->
+        <item>Macro Droid</item>
+        <item>Magisk Manager</item>
+        <item>Meituan</item>
+        <item>MiHome</item>
+        <item>Mix</item>
+        <item>Music</item>
+        <item>MxPlayer</item>
+        <!-- N -->
+        <item>Net Ease Music</item>
+        <item>NGA</item>
+        <item>Nova Launcher</item>
+        <!-- O -->
+        <!-- P -->
+        <item>Phone</item>
+        <item>Play Station</item>
+        <item>Plex</item>
+        <item>PPTV</item>
+        <item>PUBG</item>
+        <!-- Q -->
+        <item>Qfile</item>
+        <item>Qmanager</item>
+        <item>QQ Lite</item>
+        <!-- R -->
+        <item>Recorder</item>
+        <item>Reddit</item>
+        <!-- S -->
+        <item>Sms</item>
+        <!-- T -->
+        <item>Taobao Trip</item>
+        <!-- U -->
+        <!-- V -->
+        <!-- W -->
+        <!-- X -->
+        <!-- Y -->
+        <!-- Z -->
+        <item>ZooIconPack (by @AlexYan)</item>
+    </string-array>
+
+    <!-- Latest icons (Make sure it's from the "icons" array) -->
+    <!-- Just KEEP IT EMPTY BUT DO NOT DELETE IT if you do not want to show additional icons of new version app. -->
+    <string-array name="latest_icons" translatable="false">
+        <!-- A -->
+        <item>alipay</item>
+        <item>amazon_shopping</item>
+        <item>android_wear</item>
+        <item>auto_home</item>
+        <!-- B -->
+        <item>baidu_maps</item>
+        <item>bilibili</item>
+        <item>bilibili_blue</item>
+        <item>browser</item>
+        <!-- C -->
+        <item>calendar</item>
+        <item>chrome</item>
+        <item>camera</item>
+        <item>clock</item>
+        <item>calculator</item>
+        <item>compass</item>
+        <item>contacts</item>
+        <item>cool_apk</item>
+        <!-- D -->
+        <item>dianping</item>
+        <item>di_di</item>
+        <item>dji_go</item>
+        <item>downloads</item>
+        <!-- E -->
+        <item>ele</item>
+        <item>email</item>
+        <!-- F -->
+        <!-- G -->
+        <item>gallery</item>
+        <item>gmail</item>
+        <item>google</item>
+        <item>google_drive</item>
+        <item>google_maps</item>
+        <item>google_opinion_rewards</item>
+        <item>google_photos</item>
+        <item>google_play_games</item>
+        <item>google_play_music</item>
+        <item>google_play_store</item>
+        <item>google_translate</item>
+        <!-- H -->
+        <!-- I -->
+        <item>ifanr</item>
+        <item>ifttt</item>
+        <!-- J -->
+        <item>jd</item>
+        <!-- K -->
+        <item>kindlecn</item>
+        <!-- L -->
+        <item>last_pass</item>
+        <item>longzhu</item>
+        <!-- M -->
+        <item>macro_droid</item>
+        <item>magisk_manager</item>
+        <item>meituan</item>
+        <item>mi_home</item>
+        <item>mix</item>
+        <item>music</item>
+        <item>mx_player</item>
+        <!-- N -->
+        <item>net_ease_music</item>
+        <item>nga</item>
+        <item>nova_launcher</item>
+        <!-- O -->
+        <!-- P -->
+        <item>phone</item>
+        <item>play_station</item>
+        <item>plex</item>
+        <item>pptv</item>
+        <item>pubgmhd</item>
+        <!-- Q -->
+        <item>qfile</item>
+        <item>qmanager</item>
+        <item>qqlite</item>
+        <!-- R -->
+        <item>recorder</item>
+        <item>reddit</item>
+        <!-- S -->
+        <item>sms</item>
+        <!-- T -->
+        <item>taobao_trip</item>
+        <!-- U -->
+        <!-- V -->
+        <!-- W -->
+        <!-- X -->
+        <!-- Y -->
+        <!-- Z -->
+        <item>zoo_icon_pack</item>
+    </string-array>
+
+</resources>

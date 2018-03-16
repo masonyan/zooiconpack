@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright 2017 By_syk
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+
+<resources>
+
+    <!-- App name -->
+    <string name="app_name">ZooIconPack <small>Beta</small></string>
+
+    <!-- For Apex Launcher, means icon pack author -->
+    <string name="developer_name">AlexYan</string>
+
+    <!-- About information -->
+    <!-- Keep its summary EMPTY (NOT DELETE IT) if you don't want to show certain line. -->
+    <!-- For summary text, you could try to use such codes:
+         xxx
+         [xxx](copy:xxx)
+         [xxx](email:xxx)
+         [xxx](alipay:xxx|xxx)
+         [xxx](wechat:xxx)
+         [xxx](qrcode:xxx)
+         [xxx](xxx)
+         -->
+    <string name="preference_icons_summary_note"></string>
+    <string name="preference_icons_title_author">Icon pack author</string>
+    <string name="preference_icons_summary_author">[AlexYan](copy:AlexYan)</string>
+    <string name="preference_icons_title_contact">Contact author</string>
+    <string name="preference_icons_summary_contact">[junyangyan@qq.com](email:junyangyan@qq.com)</string>
+    <string name="preference_icons_title_todo_1"></string>
+    <string name="preference_icons_summary_todo_1"></string>
+    <string name="preference_icons_title_copyright">Copyright</string>
+    <string name="preference_icons_summary_copyright">Copyright &#169; 2018 AlexYan. All rights reserved.</string>
+    <string name="preference_support_title_donate">Donate via Alipay</string>
+    <string name="preference_support_summary_donate">[masonyan1991@icloud.com](alipay:HTTPS://QR.ALIPAY.COM/FKX08683LEEQ0FMRODTU4E|masonyan1991@icloud.com)</string>
+    <string name="preference_support_title_todo_1">Donate via WeChat</string>
+    <string name="preference_support_summary_todo_1">[masonyan](wechat:wxp://f2f0rw3eoB6oZHu4MBklUVptIpyUE4lLnfiw)</string>
+    <string name="preference_support_title_sponsors">sponsors</string>
+    <string name="preference_support_summary_sponsors">[Thank for donating.](usr:alex)</string>
+    <string name="preference_app_title_app">@string/app_name</string>
+    <string name="preference_app_summary_app">v%1$s (%2$d)</string>
+    <string name="preference_app_title_todo_1"></string>
+    <string name="preference_app_summary_todo_1"></string>
+
+</resources>

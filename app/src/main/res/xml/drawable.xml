@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright 2017 By_syk
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+
+<!-- For Nova, Apex, Smart, Action 3 -->
+<resources>
+
+    <version>1</version>
+
+    <category title="Basic" /><!-- Copy basic icons here from All category -->
+    <item drawable="browser" />
+    <item drawable="calculator" />
+    <item drawable="calendar" />
+    <item drawable="camera" />
+    <item drawable="clock" />
+    <item drawable="contacts" />
+    <item drawable="drawer" />
+    <item drawable="email" />
+    <item drawable="gallery" />
+    <item drawable="music" />
+    <item drawable="phone" />
+    <!--<item drawable="settings" />-->
+    <item drawable="sms" />
+    <item drawable="chrome" />
+
+
+    <category title="Game" /><!-- Copy game icons here from All category -->
+    <item drawable="pubgmhd" />
+
+
+    <category title="Alternative" /><!-- Copy alternative icons here from All category -->
+    <item drawable="browser" />
+    <item drawable="alipay" />
+    <item drawable="amazon_shopping" />
+    <item drawable="android_wear" />
+    <item drawable="auto_home" />
+    <item drawable="baidu_maps" />
+    <item drawable="bilibili" />
+    <item drawable="bilibili_blue" />
+    <item drawable="calculator" />
+    <item drawable="calendar" />
+    <item drawable="chrome" />
+    <item drawable="camera" />
+    <item drawable="clock" />
+    <item drawable="compass" />
+    <item drawable="contacts" />
+    <item drawable="cool_apk" />
+    <item drawable="dianping" />
+    <item drawable="di_di" />
+    <item drawable="dji_go" />
+    <item drawable="drawer" />
+    <item drawable="downloads" />
+    <item drawable="ele" />
+    <item drawable="email" />
+    <item drawable="gallery" />
+    <item drawable="gmail" />
+    <item drawable="google" />
+    <item drawable="google_drive" />
+    <item drawable="google_maps" />
+    <item drawable="google_opinion_rewards" />
+    <item drawable="google_photos" />
+    <item drawable="google_play_games" />
+    <item drawable="google_play_music" />
+    <item drawable="google_play_store" />
+    <item drawable="google_translate" />
+    <item drawable="ifanr" />
+    <item drawable="ifttt" />
+    <item drawable="jd" />
+    <item drawable="kindlecn" />
+    <item drawable="last_pass" />
+    <item drawable="longzhu" />
+    <item drawable="macro_droid" />
+    <item drawable="magisk_manager" />
+    <item drawable="meituan" />
+    <item drawable="mi_home" />
+    <item drawable="mix" />
+    <item drawable="music" />
+    <item drawable="mx_player" />
+    <item drawable="net_ease_music" />
+    <item drawable="nga" />
+    <item drawable="nova_launcher" />
+    <item drawable="phone" />
+    <item drawable="play_station" />
+    <item drawable="plex" />
+    <item drawable="pptv" />
+    <item drawable="qfile" />
+    <item drawable="qmanager" />
+    <item drawable="qqlite" />
+    <item drawable="recorder" />
+    <item drawable="reddit" />
+    <item drawable="sms" />
+    <item drawable="taobao_trip" />
+
+    <category title="All(8)" /><!-- All icons here -->
+    <item drawable="alipay" />
+    <item drawable="amazon_shopping" />
+    <item drawable="android_wear" />
+    <item drawable="auto_home" />
+    <item drawable="baidu_maps" />
+    <item drawable="bilibili" />
+    <item drawable="bilibili_blue" />
+    <item drawable="browser" />
+    <item drawable="calculator" />
+    <item drawable="calendar" />
+    <item drawable="chrome" />
+    <item drawable="camera" />
+    <item drawable="clock" />
+    <item drawable="compass" />
+    <item drawable="contacts" />
+    <item drawable="cool_apk" />
+    <item drawable="dianping" />
+    <item drawable="di_di" />
+    <item drawable="dji_go" />
+    <item drawable="drawer" />
+    <item drawable="downloads" />
+    <item drawable="ele" />
+    <item drawable="email" />
+    <item drawable="gallery" />
+    <item drawable="gmail" />
+    <item drawable="google" />
+    <item drawable="google_drive" />
+    <item drawable="google_opinion_rewards" />
+    <item drawable="google_maps" />
+    <item drawable="google_photos" />
+    <item drawable="google_play_games" />
+    <item drawable="google_play_music" />
+    <item drawable="google_play_store" />
+    <item drawable="google_translate" />
+    <item drawable="ifanr" />
+    <item drawable="ifttt" />
+    <item drawable="jd" />
+    <item drawable="kindlecn" />
+    <item drawable="last_pass" />
+    <item drawable="longzhu" />
+    <item drawable="macro_droid" />
+    <item drawable="magisk_manager" />
+    <item drawable="meituan" />
+    <item drawable="mi_home" />
+    <item drawable="mix" />
+    <item drawable="music" />
+    <item drawable="mx_player" />
+    <item drawable="net_ease_music" />
+    <item drawable="nga" />
+    <item drawable="nova_launcher" />
+    <item drawable="phone" />
+    <item drawable="play_station" />
+    <item drawable="plex" />
+    <item drawable="pptv" />
+    <item drawable="pubgmhd" />
+    <item drawable="qfile" />
+    <item drawable="qmanager" />
+    <item drawable="qqlite" />
+    <item drawable="recorder" />
+    <item drawable="reddit" />
+    <item drawable="sms" />
+    <item drawable="taobao_trip" />
+
+</resources>

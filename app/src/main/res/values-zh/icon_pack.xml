@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright 2017 By_syk
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+
+<resources>
+
+    <!-- Corresponding app name list of all icons in /res/drawable-nodpi/ -->
+    <!-- Just KEEP IT EMPTY BUT DO NOT DELETE IT if you do not want to collect app name list. -->
+    <string-array name="icon_labels">
+        <!-- A -->
+        <item>支付宝</item>
+        <item>亚马逊商城</item>
+        <item>Android Wear</item>
+        <item>汽车之家</item>
+        <!-- B -->
+        <item>百度地图</item>
+        <item>Bilibili</item>
+        <item>哔哩哔哩</item>
+        <item>浏览器</item>
+        <!-- C -->
+        <item>日历</item>
+        <item>chrome</item>
+        <item>照相机</item>
+        <item>时钟</item>
+        <item>计算器</item>
+        <item>指南针</item>
+        <item>联系人</item>
+        <item>酷安市场</item>
+        <!-- D -->
+        <item>大众点评</item>
+        <item>滴滴出行</item>
+        <item>DJI Go</item>
+        <item>下载</item>
+        <!-- E -->
+        <item>饿了么</item>
+        <item>邮件</item>
+        <!-- F -->
+        <!-- G -->
+        <item>相册</item>
+        <item>Gmail</item>
+        <item>Google</item>
+        <item>Google Drive</item>
+        <item>Google Maps</item>
+        <item>Google Opinion Rewards</item>
+        <item>Google Photos</item>
+        <item>Google Play Games</item>
+        <item>Google Play Music</item>
+        <item>Google Play Store</item>
+        <item>谷歌翻译</item>
+        <!-- H -->
+        <!-- I -->
+        <item>爱范儿</item>
+        <item>IFTTT</item>
+        <!-- J -->
+        <item>京东</item>
+        <!-- K -->
+        <item>Kindle阅读</item>
+        <!-- L -->
+        <item>Last Pass</item>
+        <item>龙珠直播</item>
+        <!-- M -->
+        <item>Macro Droid</item>
+        <item>Magisk Manager</item>
+        <item>美团</item>
+        <item>米家</item>
+        <item>Mix</item>
+        <item>音乐</item>
+        <item>MxPlayer</item>
+        <!-- N -->
+        <item>网易云音乐</item>
+        <item>NGA</item>
+        <item>Nova Launcher</item>
+        <!-- O -->
+        <!-- P -->
+        <item>电话</item>
+        <item>Play Station</item>
+        <item>Plex</item>
+        <item>PPTV</item>
+        <item>PUBG</item>
+        <!-- Q -->
+        <item>Qfile</item>
+        <item>Qmanager</item>
+        <item>QQ Lite</item>
+        <!-- R -->
+        <item>录音机</item>
+        <item>Reddit</item>
+        <!-- S -->
+        <item>短信</item>
+        <!-- T -->
+        <item>飞猪</item>
+        <!-- U -->
+        <!-- V -->
+        <!-- W -->
+        <!-- X -->
+        <!-- Y -->
+        <!-- Z -->
+        <item>ZooIconPack (by @AlexYan)</item>
+    </string-array>
+
+</resources>
