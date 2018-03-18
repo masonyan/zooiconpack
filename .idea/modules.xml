@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/NanoIconPack.iml" filepath="$PROJECT_DIR$/NanoIconPack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZooIconPack.iml" filepath="$PROJECT_DIR$/ZooIconPack.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/nanoiconpack/nanoiconpack.iml" filepath="$PROJECT_DIR$/nanoiconpack/nanoiconpack.iml" />
     </modules>
